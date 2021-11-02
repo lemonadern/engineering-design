@@ -1,8 +1,8 @@
 #!/usr/bin/python3
+import io
 
 import cv2
 import numpy as np
-import io
 import picamera
 
 stream = io.BytesIO()
